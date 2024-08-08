@@ -1,5 +1,5 @@
 {
-  "name": "easy-template-x",
+  "name": "@rezkyatinnov/easy-template-x",
   "version": "4.1.0",
   "description": "Generate docx documents from templates, in Node or in the browser.",
   "keywords": [
